@@ -1,0 +1,22 @@
+{
+  "name": "threejsexample",
+  "version": "1.0.0",
+  "description": "example threejs project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacInnes/ThreeJSExample.git"
+  },
+  "author": "Andrew Mockett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacInnes/ThreeJSExample/issues"
+  },
+  "homepage": "https://github.com/MacInnes/ThreeJSExample#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
